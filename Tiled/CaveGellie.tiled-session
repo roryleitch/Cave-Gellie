@@ -1,0 +1,22 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+    },
+    "last.imagePath": "/home/wolf/Documents/GDevelop projects/Cave Gellie/Tiles",
+    "map.fixedSize": true,
+    "map.height": 15,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 200,
+    "openFiles": [
+    ],
+    "project": "CaveGellie.tiled-project",
+    "recentFiles": [
+    ],
+    "tileset.embedInMap": true
+}
