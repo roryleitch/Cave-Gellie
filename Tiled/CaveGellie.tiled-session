@@ -3,10 +3,21 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "LevelOne.tmx",
     "expandedProjectPaths": [
     ],
     "fileStates": {
+        "LevelOne.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 908,
+                "y": 1084
+            }
+        },
+        "LevelOne.tmx#CaveTiles(32x32)": {
+            "scaleInDock": 0.95
+        }
     },
     "last.imagePath": "/home/wolf/Documents/GDevelop projects/Cave Gellie/Tiles",
     "map.fixedSize": true,
@@ -14,9 +25,11 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 200,
     "openFiles": [
+        "LevelOne.tmx"
     ],
     "project": "CaveGellie.tiled-project",
     "recentFiles": [
+        "LevelOne.tmx"
     ],
     "tileset.embedInMap": true
 }
